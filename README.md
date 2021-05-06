@@ -26,6 +26,12 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [How to make music bot for discord in 6 mins without coding!!](https://www.youtube.com/watch?v=loz4euJv1M0&t=6s)
+- [How to make a giveaway bot for discord in 6 mins without coding!!] (https://www.youtube.com/watch?v=ExzlZEGVbBw)
+<!-- YOUTUBE:END -->
 
 
 [![Drstrange GitHub Stats](https://github-readme-stats.vercel.app/api?username=drstrangegithub)](https://github.com/anuraghazra/github-readme-stats)
