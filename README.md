@@ -29,8 +29,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [**How to make music bot for discord in 6 mins without coding!!](https://www.youtube.com/watch?v=loz4euJv1M0&t=6s)
-- [**How to make a giveaway bot for discord in 6 mins without coding!!](https://www.youtube.com/watch?v=ExzlZEGVbBw)
+- [**How to make music bot for discord in 6 mins without coding!!**](https://www.youtube.com/watch?v=loz4euJv1M0&t=6s)
+- [**How to make a giveaway bot for discord in 6 mins without coding!!**](https://www.youtube.com/watch?v=ExzlZEGVbBw)
 <!-- YOUTUBE:END -->
 
 
