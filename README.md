@@ -30,3 +30,6 @@
 
 [youtube]: https://www.youtube.com/channel/UCmTSEzt4h1S4MiCM1grWu9g
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?
+[cssplaylist]: https://www.youtube.com/playlist?
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
