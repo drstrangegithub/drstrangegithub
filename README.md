@@ -12,13 +12,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [**How to make music bot for discord in 6 mins without coding!!**](https://www.youtube.com/watch?v=loz4euJv1M0&t=6s)
-- [**How to make a giveaway bot for discord in 6 mins without coding!!**](https://www.youtube.com/watch?v=ExzlZEGVbBw)
-<!-- YOUTUBE:END -->
-
 
 [![Drstrange GitHub Stats](https://github-readme-stats.vercel.app/api?username=drstrangegithub)](https://github.com/anuraghazra/github-readme-stats)
 
