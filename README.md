@@ -1,4 +1,4 @@
-### Hi there 👋 I am Drstrange (not real name ofc) AKA [Discord Tricks][youtube]
+### Hi there 👋 I am UJ
 
 - 🌱 I develop cool bots for discord
 - 🤔 I help people make bots really easy without coding :)
